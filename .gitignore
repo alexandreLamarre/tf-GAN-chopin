@@ -1,3 +1,12 @@
+# ========== Dev Specific Ignores ======================
+.vscode
+.idea
+#dataset
+maestro-v3.0.0-midi/
+
+
+# ========== Python template .gitignore ================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
